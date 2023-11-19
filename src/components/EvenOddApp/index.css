@@ -1,0 +1,47 @@
+.bg-container {
+  background-color: #ffffff;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.text-container {
+  background-image: linear-gradient(to bottom, #ff6e7f, #bfe9ff);
+  background-size: cover;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10%;
+  border-radius: 10px;
+}
+.title {
+  color: #0f172a;
+  font-size: 30px;
+}
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.sub-heading {
+  color: #334155;
+  font-size: 20px;
+  font-weight: bold;
+}
+.btn {
+  font-size: 14px;
+  padding: 10px;
+  border-width: 0;
+  width: 100px;
+  border-radius: 10px;
+  cursor: pointer;
+  outline: none;
+}
+.para {
+  color: #1e293b;
+}
